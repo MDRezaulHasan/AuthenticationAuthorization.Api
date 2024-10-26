@@ -1,0 +1,6 @@
+﻿services:
+  authenticationauthorization.api:
+    image: authenticationauthorization.api
+    build:
+      context: .
+      dockerfile: AuthenticationAuthorization.Api/Dockerfile

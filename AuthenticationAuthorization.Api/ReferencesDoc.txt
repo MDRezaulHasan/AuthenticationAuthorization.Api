@@ -1,0 +1,5 @@
+ dotnet add AuthenticationAuthorization.Api package Microsoft.AspNetCore.Identity.EntityFrameworkCore 
+ dotnet add AuthenticationAuthorization.Api package Microsoft.EntityFrameworkCore.Sqlite
+ dotnet add AuthenticationAuthorization.Api package Microsoft.EntityFrameworkCore.Design
+ dotnet ef migrations add "initial-migration" --project AuthenticationAuthorization.Api
+ dotnet ef database update --project AuthenticationAuthorization.Api

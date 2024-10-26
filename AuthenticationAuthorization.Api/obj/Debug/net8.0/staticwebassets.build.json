@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1fePi8TogPtgrSRsPY0HR5FnfLru0slgosB01rEaotA=",
+  "Source": "AuthenticationAuthorization.Api",
+  "BasePath": "_content/AuthenticationAuthorization.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
